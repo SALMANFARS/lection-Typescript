@@ -39,7 +39,7 @@ formatFullName({ firstName: 'John', lastName: 'Doe' });
 
 
 
-#### В чем разница между TypeScript и JavaScript.
+git branch -M mainм разница между TypeScript и JavaScript.
 
                     
    1. Типизация
